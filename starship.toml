@@ -43,3 +43,6 @@ style = "bold italic blue"
 format = "via [node $version](bold green) "
 detect_files = ["package.json"]
 detect_folders = ["node_modules"]
+
+[aws]
+disabled = true
